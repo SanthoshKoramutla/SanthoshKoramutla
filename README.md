@@ -38,6 +38,7 @@
  </p>
 
 
-[![santhoshkoramutla's github stats](https://github-readme-stats.vercel.app/api?username=santhoshkoramutla&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/santhoshkoramutla/github-readme-stats) :india: :us: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkoramutla)](https://github.com/santhoshkoramutla/github-readme-stats)
+[![santhoshkoramutla's github stats](https://github-readme-stats.vercel.app/api?username=santhoshkoramutla&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/santhoshkoramutla/github-readme-stats) 
+:india: :us: [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkoramutla)](https://github.com/santhoshkoramutla/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkoramutla&" alt="santhoshkoramutla" /></p>
