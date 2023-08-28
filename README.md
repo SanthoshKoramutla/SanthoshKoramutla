@@ -12,7 +12,7 @@
 
 - 🔍 I’m looking for Full Time Opportunities to work as **Data Analytics/Business Analytics**
 
-- 📫 How to reach me **koramutla5038@gmail.com**
+- 📫 How to reach me **koramutla@usf.edu**
 
 - 📄 Know about my experiences [https://santhoshvarma5038.wixsite.com/umasankarsanthoshkor/general-5](https://santhoshvarma5038.wixsite.com/umasankarsanthoshkor/general-5)
 
